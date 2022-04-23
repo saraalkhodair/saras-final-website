@@ -47,12 +47,6 @@ p{
     font-style: verdana;
 }
 
-img {
-    max-width:10%;
-    height:auto;
-    margin-top: 2%;
-    border-radius: 20%;
-}
 
 a{
     font-size:12px;
@@ -68,9 +62,18 @@ div{
     margin-top: 0px;
     margin-bottom: 0px;
     font-style: verdana;
+    
 }
 
-
+img{
+    width:290px;
+}
+div.gallery {
+    margin: 10px;
+    float: top;
+    width: 180px;
+    height:700px;
+  }
 input[type=text], select, textarea {
     width: 100%; 
     padding: 12px;  
