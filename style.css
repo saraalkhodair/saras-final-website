@@ -14,9 +14,9 @@ body{
     overflow: hidden;
 }
 nav{
-    width: 50%;
+    width: auto;
     height: 100px;
-    background-color: lightgrey;
+    background-color: lightgray;
     font-style: verdana;
 }
     ul{
